@@ -1,0 +1,19 @@
+Date,Voucher No,Particulars,Reference,Debit,Credit
+2026-09-01,RV-0901,Received from Mehta Enterprises - Inv 1001,NEFT-INV1001,85000.00,
+2026-09-03,PV-0901,Office rent - September,100231,,45000.00
+2026-09-08,PV-0902,Paid Gupta Supplies - Bill GS/442,100232,,32500.00
+2026-09-10,RV-0902,Received from Kapoor & Co,UPI-778812,18750.00,
+2026-09-12,PV-0903,Electricity bill - September,EB-SEP26,,6420.00
+2026-09-14,PV-0904,Paid Singh Logistics - freight,NEFT-PO2207,,12600.00
+2026-09-15,RV-0903,Received from Rao Industries - Inv 1004,NEFT-INV1004,64000.00,
+2026-09-17,PV-0905,Paid Verma Packaging - Bill VP/318,100234,,7250.00
+2026-09-18,PV-0906,Office supplies - Office Mart,100233,,4850.00
+2026-09-20,PV-0907,GST payment - Aug 2026 return,GST-CHLN-0926,,27300.00
+2026-09-21,PV-0908,Internet bill - September,ISP-SEP26,,2360.00
+2026-09-21,PV-0909,Internet bill - September,ISP-SEP26,,2360.00
+2026-09-22,RV-0904,Cheque deposited - Iyer Traders,DEP-5521,40000.00,
+2026-09-25,RV-0905,Received from Desai Retail,UPI-901144,9999.00,
+2026-09-28,PV-0910,Paid Patel Hardware,100235,,15400.00
+2026-09-29,PV-0911,Professional fees - Joshi Consultants,100236,,22000.00
+2026-09-30,PV-0912,Salaries - September 2026,SAL-0926,,120000.00
+2026-09-30,RV-0906,Cheque deposited - Nair Distributors,DEP-5530,36500.00,

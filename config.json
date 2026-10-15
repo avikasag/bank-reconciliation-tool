@@ -1,0 +1,33 @@
+{
+  "company": "Sharma Traders Pvt Ltd",
+  "bank_account": "Current Account XXXX4821",
+  "bank_ledger_name": "Bank - Current A/c XXXX4821",
+  "period_end": "2026-09-30",
+  "currency": "INR",
+  "opening_balance_per_bank": 250000.00,
+  "opening_balance_per_books": 250000.00,
+  "date_tolerance_days": 5,
+  "stale_item_days": 90,
+
+  "bank": {
+    "file": "data/bank_statement_sep2026.csv",
+    "date": "Txn Date",
+    "date_format": "%d-%m-%Y",
+    "description": "Narration",
+    "reference": "Ref No",
+    "inflow": "Deposit",
+    "outflow": "Withdrawal",
+    "balance": "Balance"
+  },
+
+  "books": {
+    "file": "data/cash_book_sep2026.csv",
+    "date": "Date",
+    "date_format": "%Y-%m-%d",
+    "description": "Particulars",
+    "reference": "Reference",
+    "voucher": "Voucher No",
+    "inflow": "Debit",
+    "outflow": "Credit"
+  }
+}
